@@ -4,7 +4,7 @@
       "name": "PrintWatch (latest)",
       "description": "PrintWatch 1.3.01 with the latest OctoPrint version",
       "url": "https://github.com/OctoPrint/OctoPi-UpToDate/releases/download/1.0.0-1.9.2-20230718111854/octopi-1.0.0-1.9.2-20230718111854.zip",
-      "icon": "https://octopi.octoprint.org/rpi-imager.png",
+      "icon": "https://raw.githubusercontent.com/printpal-io/printwatch-raspberrypi-image/main/logo.png",
       "release_date": "2023-07-20",
       "extract_size": 2906653696,
       "extract_sha256": "9edaaf018c902f158e0c772c0925dd0248d885bb00758bff61c0c6df639e01db",
